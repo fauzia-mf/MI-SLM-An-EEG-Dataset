@@ -7,7 +7,7 @@ This GitHub repository provides the EEG dataset proposed in the research work ti
 
 The dataset is designed to support Motor Imagery (MI)-based Brain–Computer Interface (BCI) research, particularly in the domain of single-limb movement decoding and human–machine interaction systems. It provides a foundation for studies in neuroprosthetic control, robotic exoskeleton operation, post-stroke rehabilitation, and neural motor-function decoding.
 
-The implementation and experimental analysis are provided in **Python (Kaggle Notebook)**.
+The implementation and experimental analysis are provided in **Python Kaggle Notebook**.
 
 
 

@@ -13,7 +13,7 @@ The implementation and experimental analysis are provided in **Python Notebook**
 
 
 
-If you use this dataset in your research, kindly cite the following:
+If you use this dataset in your research, kindly cite the following: 
 
 Fauzia Yasmeen, Shiru Sharma, *MI-SLM: An EEG Dataset for Exploring Motor Imagery Single-Limb Movement in Human–Machine Interaction Systems.*
 
